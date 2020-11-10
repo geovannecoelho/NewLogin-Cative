@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/static/js/main.5c11440b.chunk.js",
-    "main.js.map": "/static/js/main.5c11440b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.28b846ab.js",
-    "runtime-main.js.map": "/static/js/runtime-main.28b846ab.js.map",
-    "static/js/2.3470e02e.chunk.js": "/static/js/2.3470e02e.chunk.js",
-    "static/js/2.3470e02e.chunk.js.map": "/static/js/2.3470e02e.chunk.js.map",
-    "static/js/3.190e4bf0.chunk.js": "/static/js/3.190e4bf0.chunk.js",
-    "static/js/3.190e4bf0.chunk.js.map": "/static/js/3.190e4bf0.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.3470e02e.chunk.js.LICENSE.txt": "/static/js/2.3470e02e.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+    "main.css": "/geovannecoelho/NewLogin-Cative/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/geovannecoelho/NewLogin-Cative/static/js/main.5c11440b.chunk.js",
+    "main.js.map": "/geovannecoelho/NewLogin-Cative/static/js/main.5c11440b.chunk.js.map",
+    "runtime-main.js": "/geovannecoelho/NewLogin-Cative/static/js/runtime-main.bb1b1847.js",
+    "runtime-main.js.map": "/geovannecoelho/NewLogin-Cative/static/js/runtime-main.bb1b1847.js.map",
+    "static/js/2.3470e02e.chunk.js": "/geovannecoelho/NewLogin-Cative/static/js/2.3470e02e.chunk.js",
+    "static/js/2.3470e02e.chunk.js.map": "/geovannecoelho/NewLogin-Cative/static/js/2.3470e02e.chunk.js.map",
+    "static/js/3.190e4bf0.chunk.js": "/geovannecoelho/NewLogin-Cative/static/js/3.190e4bf0.chunk.js",
+    "static/js/3.190e4bf0.chunk.js.map": "/geovannecoelho/NewLogin-Cative/static/js/3.190e4bf0.chunk.js.map",
+    "index.html": "/geovannecoelho/NewLogin-Cative/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/geovannecoelho/NewLogin-Cative/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.3470e02e.chunk.js.LICENSE.txt": "/geovannecoelho/NewLogin-Cative/static/js/2.3470e02e.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/geovannecoelho/NewLogin-Cative/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.28b846ab.js",
+    "static/js/runtime-main.bb1b1847.js",
     "static/js/2.3470e02e.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.5c11440b.chunk.js"
